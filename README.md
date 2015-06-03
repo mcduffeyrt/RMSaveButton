@@ -9,6 +9,14 @@ Inspired by Chad Bercea's Dribbble post [here!](https://dribbble.com/shots/19866
 - iOS 7.0 or later
 - Xcode 6.1
 
+##Installation
+
+[Cocoapods](https://cocoapods.org/)
+- **pod 'RMSaveButton'**
+
+Manual
+- Add RMSaveButton.h and .m files to project
+
 ##Usage
 Run the demo project for example.
 
